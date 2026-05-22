@@ -1,4 +1,4 @@
-# SecurityTask v6 Full
+# SecurityTask v7 Full
 
 Advanced Windows 11 Startup, Process, Persistence, and VirusTotal Security Auditor
 
@@ -6,7 +6,7 @@ Advanced Windows 11 Startup, Process, Persistence, and VirusTotal Security Audit
 
 ## Overview
 
-SecurityTask v6 Full is a graphical Windows security auditing application designed to help identify:
+SecurityTask v7 Full is a graphical Windows security auditing application designed to help identify:
 
 * Hidden persistence mechanisms
 * Suspicious startup entries
